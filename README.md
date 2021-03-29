@@ -15,3 +15,11 @@ Here’s a breakdown of what aspect-based sentiment analysis can extract:
 
 Sentiments: positive or negative opinions about a particular aspect
 Aspects: the category, feature, or topic that is being talked about
+
+## Data
+The dataset contains the following fields:
+- unit_id: a unique id for user
+- golden: whether the user was included in the gold standard for the model; TRUE or FALSE
+- unit_state: state of the observation; one of finalized (for contributor-judged) or golden (for gold standard observations)
+- trusted_judgments: number of trusted judgments (int); always 3 for non-golden, and what may be a unique id for gold standard observations
+- last_judgment_at: date and time of last contributor judgment; blank for gold standard observations
