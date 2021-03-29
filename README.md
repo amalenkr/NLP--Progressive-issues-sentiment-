@@ -6,7 +6,7 @@ Contributors viewed tweets regarding a variety of left-leaning issues like legal
 - de bien suivre les autres consignes (varier les types d'approches, les embeddings, etc.)
 - peut-être regarder du côté de l'aspect-based sentiment analysis :
  
-Source :
+Source : https://monkeylearn.com/blog/aspect-based-sentiment-analysis/
 Aspect-based sentiment analysis (ABSA) is a text analysis technique that categorizes data by aspect and identifies the sentiment attributed to each one. Aspect-based sentiment analysis can be used to analyze customer feedback by associating specific sentiments with different aspects of a product or service.
 
 When we talk about aspects, we mean the attributes or components of a product or service e.g. “the user experience of a new product,” “the response time for a query or complaint,” or “the ease of integration of new software.”
