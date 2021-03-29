@@ -1,0 +1,2 @@
+# NLP--Progressive-issues-sentiment-
+Contributors viewed tweets regarding a variety of left-leaning issues like legalization of abortion, feminism, Hillary Clinton, etc. They then classified if the tweets in question were for, against, or neutral on the issue (with an option for none of the above). After this, they further classified each statement as to whether they expressed a subjective opinion or gave facts.
