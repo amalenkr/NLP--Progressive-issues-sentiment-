@@ -1,0 +1,18 @@
+variables		anciens noms					
+'unit_id'
+'golden'
+'unit_state'
+'trusted_judgments'
+'last_judgment_at',
+'q1'		       	'q1_from_reading_the_tweet_which_of_the_options_below_is_most_likely_to_be_true_about_the_stance_or_outlook_of_the_tweeter_towards_the_target',
+'q1_confidence'      	'q1_from_reading_the_tweet_which_of_the_options_below_is_most_likely_to_be_true_about_the_stance_or_outlook_of_the_tweeter_towards_the_target_confidence',
+'q2'       		'q2_which_of_the_options_below_is_true_about_the_opinion_in_the_tweet',
+'q2_confidence'       	'q2_which_of_the_options_below_is_true_about_the_opinion_in_the_tweet_confidence',
+'orig_golden'
+'internal_id',
+       			'orig_q1_from_reading_the_tweet_which_of_the_options_below_is_most_likely_to_be_true_about_the_stance_or_outlook_of_the_tweeter_towards_the_target',
+       			'q1_from_reading_the_tweet_which_of_the_options_below_is_most_likely_to_be_true_about_the_stance_or_outlook_of_the_tweeter_towards_the_target_gold',
+       			'orig_q2_which_of_the_options_below_is_true_about_the_opinion_in_the_tweet',
+'target'
+'tweet' 
+'tweet_id'
